@@ -37,31 +37,7 @@
       "downloadable": true
       "copyright": "Credits to its creator",
       "collections": "landscapes,city"
-    },
-    {
-      "name": "Perigee",
-      "author": "Mascaloona",
-      "url": "https://raw.githubusercontent.com/Ballerinakaka/ballerinakakaIP/master/Mascaloona-Perigee.jpg",
-      "downloadable": true
-      "copyright": "Credits to its creator",
-      "collections": "featured,landscapes,people,city",
-    },
-    {
-      "name": "Bliss",
-      "author": "Mascaloona",
-      "url": "https://raw.githubusercontent.com/Ballerinakaka/ballerinakakaIP/master/Mascaloona-Bliss.jpg",
-      "downloadable": true
-      "copyright": "Credits to its creator",
-      "collections": "featured,landscapes,people,city",
-    },
-    {
-      "name": "spnarrow",
-      "author": "joeyjazz_ddh02q1",
-      "url": "https://raw.githubusercontent.com/Ballerinakaka/ballerinakakaIP/master/spnarrow_by_joeyjazz_ddh02q1.jpg",
-      "downloadable": true
-      "copyright": "Credits to its creator",
-      "collections": "featured,landscapes,people,city",
-    },
+    }
         {
       "name": "City Night ",
       "author": "@daniel840528",
