@@ -27,13 +27,13 @@
       "author": "@leoelmo99",
       "url": "https://raw.githubusercontent.com/Ballerinakaka/ballerinakakaIP/master/blackwhite%20(3).jpg",
       "collections": "people,city",
+      "copyright": "Credits to its creator",
       "downloadable": true
     },
     {
       "name": "Church",
       "author": "@kirillz",
       "url": "https://raw.githubusercontent.com/Ballerinakaka/ballerinakakaIP/master/church.jpg",
-      "name": "ShotC",
       "downloadable": true
       "copyright": "Credits to its creator",
       "collections": "landscapes,city"
@@ -43,9 +43,33 @@
       "author": "@daniel840528",
       "url": "https://raw.githubusercontent.com/Ballerinakaka/ballerinakakaIP/master/citynight%20(1).jpg",
       "downloadable": true
-      "copyright": "Free (do whatever you want)",
+      "copyright": "Credits to its creator",
       "collections": "featured,landscapes,people,city",
       "featured": true
+    },
+    {
+      "name": "Perigee",
+      "author": "Mascaloona",
+      "url": "https://raw.githubusercontent.com/Ballerinakaka/ballerinakakaIP/master/citynight%20(1).jpg",
+      "downloadable": true
+      "copyright": "Credits to its creator",
+      "collections": "featured,landscapes,people,city",
+    },
+    {
+      "name": "Bliss",
+      "author": "Mascaloona",
+      "url": "https://raw.githubusercontent.com/Ballerinakaka/ballerinakakaIP/master/citynight%20(1).jpg",
+      "downloadable": true
+      "copyright": "Credits to its creator",
+      "collections": "featured,landscapes,people,city",
+    },
+    {
+      "name": "spnarrow",
+      "author": "joeyjazz_ddh02q1",
+      "url": "https://raw.githubusercontent.com/Ballerinakaka/ballerinakakaIP/master/citynight%20(1).jpg",
+      "downloadable": true
+      "copyright": "Credits to its creator",
+      "collections": "featured,landscapes,people,city",
     }
   ]
 }
