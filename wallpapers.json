@@ -26,7 +26,6 @@
       "name": "BlackWhite",
       "author": "@leoelmo99",
       "url": "https://raw.githubusercontent.com/Ballerinakaka/ballerinakakaIP/master/blackwhite%20(3).jpg",
-     "dimensions": "3200x2560",
       "collections": "people,city",
       "downloadable": true
     },
@@ -35,7 +34,7 @@
       "author": "@kirillz",
       "url": "https://raw.githubusercontent.com/Ballerinakaka/ballerinakakaIP/master/church.jpg",
       "name": "ShotC",
-      "dimensions": "1280x720",
+      "downloadable": true
       "copyright": "Credits to its creator",
       "collections": "landscapes,city"
     },
@@ -43,7 +42,7 @@
       "name": "City Night ",
       "author": "@daniel840528",
       "url": "https://raw.githubusercontent.com/Ballerinakaka/ballerinakakaIP/master/citynight%20(1).jpg",
-      "dimensions": "3200x2560",
+      "downloadable": true
       "copyright": "Free (do whatever you want)",
       "collections": "featured,landscapes,people,city",
       "featured": true
