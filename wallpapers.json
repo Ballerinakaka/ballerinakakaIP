@@ -1,0 +1,52 @@
+{
+  "Collections": [
+    {
+      "name": "Landscapes",
+      "preview_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
+      "preview_thumbnail_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_a.png"
+    },
+    {
+      "name": "City",
+      "preview_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_c.png",
+      "preview_thumbnail_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_c.png"
+    },
+    {
+      "name": "Food",
+      "preview_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_b.png",
+      "preview_thumbnail_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_b.png"
+    },
+    {
+      "name": "People",
+      "preview_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_d.png",
+      "preview_thumbnail_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_d.png"
+    }
+  ],
+  "Wallpapers": [
+    {
+      "name": "BlackWhite",
+      "author": "@leoelmo99",
+      "url": "https://randomchamp.xyz/json/citynight.jpg",
+     "dimensions": "3200x2560",
+      "collections": "people,city",
+      "downloadable": true
+    },
+    {
+      "name": "Church",
+      "author": "@kirillz",
+      "url": "https://images.unsplash.com/photo-1541989198-c38e77540004?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=675&q=80",
+      "name": "ShotC",
+      "dimensions": "1280x720",
+      "copyright": "Credits to its creator",
+      "collections": "landscapes,city"
+    },
+    {
+      "name": "City Night ",
+      "author": "@daniel840528",
+      "url": "https://randomchamp.xyz/json/blackwhite.jpg",
+      "dimensions": "3200x2560",
+      "copyright": "Free (do whatever you want)",
+      "collections": "featured,landscapes,people,city",
+      "featured": true
+    }
+  ]
+}
